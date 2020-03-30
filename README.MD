@@ -8,7 +8,7 @@ JavaScript, Node.JS, SQLite, Knex, Express, Insomnia, React.JS, React Native
 
 Ferramentas Avançadas:
 
-Celebrate (validação de dados)
+Celebrate (validação de dados),
 Jest Framework (testes)
 
 
